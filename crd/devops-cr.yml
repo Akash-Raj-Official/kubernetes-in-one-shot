@@ -1,0 +1,9 @@
+kind: DevOpsBatch
+apiVersion: akashraj.com/v1
+metadata:
+  name: junoon-batch-9
+spec:
+  name: DevOps Zero to hero
+  duration: 3 months
+  platform: akashraj.com
+  mode: live
